@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Asik Billa Sojib
 
-<!--
-**asikbillasojib-programmer/asikbillasojib-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (React.js)
+🚀 Passionate about Web Development
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- HTML, CSS, JavaScript
+- React.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- E-commerce Website
+- School Management System
+- Portfolio Website
+
+## 📫 Contact
+- LinkedIn:https://www.linkedin.com/in/asik-billa-sojib-2b2653229/
+- Email: asikbillasojib@gmail.com
